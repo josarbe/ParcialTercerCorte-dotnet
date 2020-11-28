@@ -5,3 +5,6 @@ Descripción del proyecto : CHURUMBEL es una marca de ropa guiada a las personas
 Integrantes : Jose Ardila Behar
 
 Este proyecto tuvo como base y ayuda el trabajo de Ervis Trupja y su serie de videos en YouTube "Asp.Net CORE MVC"
+
+
+![](Diagramas/DiagramaMVC.png)
